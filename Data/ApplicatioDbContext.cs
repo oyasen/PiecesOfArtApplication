@@ -12,4 +12,4 @@ namespace PiecesOfArt_Application_Assignment.Data
         public DbSet<LoyaltyCard> loyaltyCards { get; set; }
     }
 }
-        
+        //<3
